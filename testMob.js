@@ -1,1 +1,1 @@
-// mob
+mob.init();
