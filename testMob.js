@@ -5,6 +5,7 @@ var caps =
   "appActivity": "com.android.calculator2.Calculator",
   "automationName": "UIAutomator2"
 }
+
 mob.transaction("Init");
 mob.init(caps);
 
