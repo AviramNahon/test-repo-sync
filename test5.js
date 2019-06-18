@@ -1,4 +1,4 @@
-web.init();
+web.init();//test it
 web.open('http://docs.oxygenhq.org/about-video-tutorials.html');
 //             link: link=Features
 //       xpath:link: //a[contains(text(),\'Features\')]
