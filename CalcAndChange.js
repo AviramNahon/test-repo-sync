@@ -6,6 +6,7 @@ var caps = {
   "appActivity": "com.miui.calculator.cal.CalculatorActivity",
   "automationName": "UIAutomator2"
 };
+//test for Ben
 mob.init(caps);
 
 mob.transaction("go to convertor");
